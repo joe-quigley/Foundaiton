@@ -5,12 +5,14 @@
 #header nav {
   background-color:  green;
   padding: 15px;
-  color: white;
   font-weight: bold;
-  
 
 }
 #header nav a {
   padding: 25px;
   align-items: center;
+  color: white;
+}
+p {
+  text-align: center;
 }
