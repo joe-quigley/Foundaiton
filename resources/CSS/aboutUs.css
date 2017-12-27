@@ -1,0 +1,22 @@
+.navbar {
+  background-color: darkgreen;
+
+}
+.white {
+  color: white;
+}
+.green {
+  background-color:  green;
+
+}
+a:visited {
+  color: white;
+}
+.hero {
+  width: inherit;
+}
+.btn {
+text-align: center;
+align-items: flex-start;
+color: white;
+  }
