@@ -1,13 +1,8 @@
 .navbar {
   background-color: darkgreen;
-
-}
-.white {
-  color: white;
 }
 .green {
   background-color:  green;
-
 }
 a:visited {
   color: white;
@@ -20,3 +15,7 @@ text-align: center;
 align-items: flex-start;
 color: white;
   }
+.lead {
+  display: inline-flex;
+  align-items: baseline;
+}
